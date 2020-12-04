@@ -11,18 +11,18 @@ body {
 .profileImage .btn-primary {
     color: #ffffff;
     background-color: #28c76f !important;
-    border-color: #28c76f;
+    border-color: #28c76f !important;
     outline: unset !important;
 }
 .profileImage .btn-primary:hover {
     color: #ffffff;
-    background-color: #26b666;
-    border-color: #26b666;
+    background-color: #789786 !important;
+    border-color: #26b666 !important;
 }
 .profileImage .btn-primary:focus {
     color: #ffffff;
-    background-color: #26b666;
-    border-color: #26b666;
+    background-color: #26b666 !important;
+    border-color: #26b666 !important;
 }
 /* START BADGES */
 .num {
