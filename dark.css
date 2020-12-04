@@ -3,7 +3,7 @@
 body {
     margin: 0;
     font-family: "Open Sans", Helvetica Neue, Helvetica, Arial, sans-serif;
-    background-color: #16192d;
+    background-color: #161926;
 }
 .profileTitle {
     color: white;
@@ -64,7 +64,7 @@ thead {
 /* --- Lead Details Page --- */
 .menuRight {
     color: black;
-    background: #1a1e36;
+    background: #23273c;
     height: 93vh;
     width: 300px;
     position: fixed;
@@ -134,7 +134,7 @@ thead {
 }
 .menu {
     color: white;
-    background: #1a1e36;
+    background: #23273c;
     height: 100vh;
     width: 300px;
     position: fixed;
@@ -205,7 +205,7 @@ thead {
 /*=============================================================================*/
 /*List style */
 .t-list{
-      background: #1a1e36;
+      background: #23273c;
     border-radius: 15px;
     padding: 3rem;
      box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
@@ -254,7 +254,7 @@ thead {
     border-radius: unset;
     padding: 7px 10px;
     font-size: 15px;
-    color: #1a1e36;
+    color: #23273c;
 }
 .t-list .list-row-item.list-layout-bordered-box, .t-list .list-row-item.list-layout-bordered-box:hover{
     -webkit-box-shadow: 0px 0px 30px 0px rgba(82, 63, 105, 0.05);
@@ -263,7 +263,7 @@ thead {
     border-top: 1px solid #ddd !important;
     border-right: 1px solid #ddd !important;
     border-bottom: 1px solid #ddd !important;
-    background: #1a1e36;
+    background: #23273c;
 }
 .t-list .form-group label {
     color: #fff;
@@ -308,7 +308,7 @@ thead {
     margin-bottom: 30px;
 }
 .t-datatable{
-    background: #1a1e36;
+    background: #23273c;
     padding: 3rem;
     border-radius: 15px;
     box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
@@ -321,10 +321,10 @@ thead {
 }
 .t-datatable .table-wrap>.table tr{
     color: #fff;
-    background-color: #1a1e36;
+    background-color: #23273c;
 }
 .t-datatable .table-actions{
-    background-color: #1a1e36;
+    background-color: #23273c;
 }
 .t-datatable table>tbody>tr>td {
     vertical-align:inherit;   
@@ -372,7 +372,7 @@ thead {
 }
 .t-form .af-form form{
     padding: 3rem;
-    background: #1a1e36;
+    background: #23273c;
     border-radius: 15px;
     display: grid;
     padding-top: 0rem;
@@ -397,7 +397,7 @@ thead {
 /*============================================================================*/
 /*Login style */
 .t-logincomponent{
-    background: #1a1e36;
+    background: #23273c;
     padding: 3rem !important;
     border-radius: 15px;
     margin-top: 25px;
@@ -415,7 +415,7 @@ thead {
     padding-bottom: 15px;
 }
 .t-logincomponent form{
-   background: #1a1e36;
+   background: #23273c;
 }
 .t-logincomponent .form-control {
    border-radius: 0.5rem;
@@ -447,7 +447,7 @@ thead {
 /*============================================================================*/
 /*Sign-up style */
 .t-signupcomponent{
-    background: #1a1e36;
+    background: #23273c;
     padding: 3rem !important;
     border-radius: 15px;
     margin-top: 25px;
@@ -467,7 +467,7 @@ thead {
     padding-bottom: 15px;
 }
 .t-signupcomponent form{
-    background: #1a1e36;
+    background: #23273c;
 }
 .t-signupcomponent .form-control {
     border-radius: 0.5rem;
@@ -494,7 +494,7 @@ thead {
 /*============================================================================*/
 /* Calendar style */
 .t-calendar{
-    background: #1a1e36;
+    background: #23273c;
     padding: 3rem;
     border-radius: 15px;
     -webkit-box-shadow: 0px 0px 30px 0px rgba(82, 63, 105, 0.05);
@@ -511,8 +511,8 @@ thead {
 .t-calendar .fc-toolbar.fc-header-toolbar{
     padding: 1rem;
     margin-bottom: 0px;
-    background: #1a1e36;
-    border: 1px solid #1a1e36;
+    background: #23273c;
+    border: 1px solid #23273c;
     border-bottom: unset;
 }
 .t-calendar ul.nav.nav-tabs{
@@ -598,17 +598,17 @@ thead {
     padding-bottom: 1rem;
     text-transform: uppercase;
     color: #ffffffd1;
-    background: #1a1e36;
+    background: #23273c;
 }
 .t-calendar  .fc-day-top{
     text-align:right;
 }
 .t-calendar .fc-day{
-    border-color:#1a1e36;
+    border-color:#23273c;
 }
 .t-calendar .fc-body tr td.fc-widget-content {
     border-color: #2e4561;
-    background: #1a1e36;
+    background: #23273c;
 }
 .t-calendar thead th.fc-day-header {
     border:1px solid #2e4561;
@@ -619,7 +619,7 @@ thead {
 .t-calendar  .fc-day-top .fc-day-number{
     text-decoration: none;
     display: inline-block;
-    background: #1a1e36;
+    background: #23273c;
     color: #ffffffd1;
     border-radius: 50%;
     padding: 5px 5px;
@@ -746,7 +746,7 @@ thead {
 /*select  style */
 select option{
     margin: 40px;
-    background: #1a1e36;
+    background: #23273c;
     color: #ffffffd1;
     text-shadow: 0 1px 0 rgba(0, 0, 0, 0.4);
 }
@@ -771,12 +771,12 @@ select option{
 	 color: #fff;
 }
 .t-breadcrumb .breadcrumb-wrap .breadcrumb li:last-child::before, .t-breadcrumb .breadcrumb-wrap .breadcrumb li:last-child::after {
-	 background: #1a1e36;
+	 background: #23273c;
 	 content: '';
 	 color: #fff;
 }
 .t-breadcrumb .breadcrumb-wrap .breadcrumb li:not(:last-child):hover::before, .t-breadcrumb .breadcrumb-wrap .breadcrumb li:not(:last-child):hover::after {
-	 background: #1a1e36;
+	 background: #23273c;
 }
 .t-breadcrumb .breadcrumb-wrap .breadcrumb li::before, .t-breadcrumb .breadcrumb-wrap .breadcrumb li::after {
     content: '';
@@ -784,21 +784,21 @@ select option{
     left: 6px !important;
     height: 56%;
     width: 100%;
-    border-left: 1px solid #1a1e36;
-    border-right: 1px solid #1a1e36;
+    border-left: 1px solid #23273c;
+    border-right: 1px solid #23273c;
     z-index: -2;
-    background: #1a1e36;
+    background: #23273c;
 }
 .t-breadcrumb .breadcrumb-wrap .breadcrumb li::before {
 	 content: '';
 	 top: -1px;
 	 transform: skew(30deg);
-	 border-top: 2px solid #1a1e36;
+	 border-top: 2px solid #23273c;
 }
 .t-breadcrumb .breadcrumb-wrap .breadcrumb li::after {
 	 bottom: -2px;
 	 transform: skew(-30deg);
-	 border-bottom: 2px solid #1a1e36;
+	 border-bottom: 2px solid #23273c;
 }
 .t-breadcrumb .breadcrumb-wrap .breadcrumb a {
 	 display: inline-block;
@@ -809,18 +809,18 @@ select option{
 	 text-decoration: none;
 }
 .t-breadcrumb .breadcrumb-wrap .breadcrumb li:first-child {
-	 background-color: #1a1e36;
-	 border-left: 1px solid #1a1e36;
+	 background-color: #23273c;
+	 border-left: 1px solid #23273c;
 	 left: -5px;
 	 box-sizing: content-box;
 	 margin-left: 0;
 }
 .t-breadcrumb .breadcrumb-wrap .breadcrumb li:first-child:hover {
-	background: #1a1e36;
-	border:1px solid #1a1e36;
+	background: #23273c;
+	border:1px solid #23273c;
 }
 .t-breadcrumb .breadcrumb-wrap .breadcrumb li:first-child:hover .t-breadcrumb .breadcrumb-wrap .breadcrumb li::before{
-    background: #1a1e36;
+    background: #23273c;
 }
 .t-breadcrumb .breadcrumb-wrap .breadcrumb li:first-child::before, .t-breadcrumb .breadcrumb-wrap .breadcrumb li:first-child::after {
 	 left: 5px;
@@ -839,20 +839,20 @@ select option{
 	margin-bottom: 0px;
 	box-shadow:unset;
     border-radius:15px !important;
-	background:#1a1e36;
+	background:#23273c;
 	padding:2rem;
     box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
 }
 .t-card .af-card-component .header{
     border-bottom: none;
-    background:#1a1e36;
+    background:#23273c;
     color: #ffffffd1 !important;
 }
 .t-card .af-card-component .footer{
     font-weight: 500;
     color: #ffffffd1 !important;
     text-transform: uppercase;
-    background:#1a1e36 !important;
+    background:#23273c !important;
     padding-top: 1.5rem;
     margin-right:-20px;
     margin-left:-20px;
@@ -892,7 +892,7 @@ select option{
 /*Map style */
 .t-map{
     padding: 3rem;
-    background: #1a1e36;
+    background: #23273c;
     box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
    border-radius: 15px;
 }
@@ -902,7 +902,7 @@ select option{
 
 .t-map .map-list-row-item:hover, .t-map .map-list-row-item.active{
     color: #ffffffd1;
-    background:#1a1e36;
+    background:#23273c;
 }
 
 .t-map .map-view .map-list {
@@ -969,7 +969,7 @@ select option{
     border: none;
 }
 .t-accordion .col-md-12 .accordion-item {
-	background: #1a1e36 !important;
+	background: #23273c !important;
 	position: relative;
 	margin: 0 !important;
 	padding-top: 18px;
@@ -998,15 +998,15 @@ select option{
 /*Kanban style */
 .t-kanban{
     padding-top: 3rem;
-    background: #1a1e36;
+    background: #23273c;
     padding-left: 3rem;
 }
 .t-kanban .kanban-wrap{
-    background-color: #1a1e36;
+    background-color: #23273c;
     border:unset;
 }
 .t-kanban .kanban-wrap .kanban-item {
-    background: #1a1e36;
+    background: #23273c;
 }
 .t-kanban .kanban-wrap .kanban-header {
 	margin-bottom: 0;
@@ -1074,11 +1074,11 @@ select option{
 .t-search{
     padding: 3rem;
     box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
-    background: #1a1e36;
+    background: #23273c;
     border-radius:15px;
 }
 .t-search .af-search-form form {
-    background: #1a1e36;
+    background: #23273c;
     display: grid;
 }
 .t-search .af-search-form h3 {
@@ -1120,12 +1120,12 @@ select option{
     color: #000000;
 }
 .t-menuitem .navbar-default .navbar-nav>li>a {
-   background: #1a1e36;
+   background: #23273c;
 }
 .t-menuitem .navbar-default .navbar-nav>li>a:hover, 
 .t-menuitem .navbar-default .navbar-nav>li>a:focus,
 .t-menuitem .dropdown-menu>li>a {
-	color: #1a1e36;
+	color: #23273c;
 	background: transparent;
 }
 .t-menuitem .navbar-default .navbar-nav>li:before, 
@@ -1137,7 +1137,7 @@ select option{
     left: 0;
     width: 100%;
     height: 2px;
-    background: #1a1e36;
+    background: #23273c;
     -webkit-transform: scale3d(0, 1, 1);
     transform: scale3d(0, 1, 1);
     -webkit-transition: -webkit-transform 0.2s;
@@ -1209,7 +1209,7 @@ select option{
     color:#ffffffd1;
     text-align: center;
     border-top:unset;
-    background:#1a1e36;
+    background:#23273c;
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
 }
@@ -1230,7 +1230,7 @@ select option{
 /*============================================================================*/
 /*Chart style */
 .t-chart {
-    background: #1a1e36;
+    background: #23273c;
     padding: 3rem;
     display: grid;
     webkit-box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
@@ -1245,7 +1245,7 @@ select option{
     webkit-box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
     box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
     padding: 3rem;
-    background-color: #1a1e36;
+    background-color: #23273c;
     position: relative;
     border-radius:15px;
 }
@@ -1277,7 +1277,7 @@ select option{
 }
 .t-profilecomponent .af-form form{
     padding: 3rem;
-    background: #1a1e36;
+    background: #23273c;
     border-radius: 15px;
     display: grid;
     padding-top: 0rem;
