@@ -130,7 +130,7 @@ body {
     .menu .avatar h2 {
       font-weight: normal;
       margin-bottom: 0;
-      color: #3c3c3c !important;
+      color: red !important;
     }
     .menu ul {
       list-style: none;
