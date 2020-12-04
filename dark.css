@@ -12,6 +12,23 @@ body {
     border: none !important;
 }
 
+.profileImage .btn-primary {
+    color: #ffffff;
+    background-color: #1BC5BD !important;
+    border-color: #1BC5BD !important;
+    outline: unset !important;
+}
+.profileImage .btn-primary:hover {
+    color: #ffffff;
+    background-color: #1BC5BD !important;
+    border-color: #1BC5BD !important;
+}
+.profileImage .btn-primary:focus {
+    color: #ffffff;
+    background-color: #1BC5BD !important;
+    border-color: #1BC5BD !important;
+}
+
 th, tr{
     border: none !important;
 }
