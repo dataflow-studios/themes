@@ -10,7 +10,7 @@ body {
 }
 .profileImage .btn-primary {
     color: #ffffff;
-    background-color: #28c76f;
+    background-color: #28c76f !important;
     border-color: #28c76f;
     outline: unset !important;
 }
