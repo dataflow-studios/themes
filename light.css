@@ -903,7 +903,6 @@ thead {
     padding: 3rem;
     box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
 }
-.t-search .af-search-form {}
 .t-search .af-search-form form {
     background: #ffffff;
     display: grid;
