@@ -8,7 +8,22 @@ body {
 .table-actions {
     border: none !important;
 }
-
+.profileImage .btn-primary {
+    color: #ffffff;
+    background-color: #28c76f;
+    border-color: #28c76f;
+    outline: unset !important;
+}
+.profileImage .btn-primary:hover {
+    color: #ffffff;
+    background-color: #26b666;
+    border-color: #26b666;
+}
+.profileImage .btn-primary:focus {
+    color: #ffffff;
+    background-color: #26b666;
+    border-color: #26b666;
+}
 /* START BADGES */
 .num {
     line-height: 0;
