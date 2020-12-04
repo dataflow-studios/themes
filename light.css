@@ -16,7 +16,7 @@ body {
 }
 .profileImage .btn-primary:hover {
     color: #ffffff;
-    background-color: #789786 !important;
+    background-color: #26b666 !important;
     border-color: #26b666 !important;
 }
 .profileImage .btn-primary:focus {
